@@ -3352,7 +3352,7 @@
 		}
 
 		#banner:after {
-			background-color: gold;
+			background-color: gray;
 			content: "";
 			display: block;
 			height: 100%;
